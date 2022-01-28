@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tech-mahn
 - 👀 I’m interested in photography
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on photography website
+- 💞️ I’m looking to collaborate on a photography website
 - 📫 How to reach me techmahn@tutanota.com
 
 <!---
